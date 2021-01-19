@@ -1,0 +1,31 @@
+table { 
+    border-radius:25%;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+.masikvilagoskek{
+    background-color: lightblue;
+    color: black;
+}
+.sotetkek{
+    background-color: rgb(95, 85, 235);
+    color: blue;
+}
+.szurke{
+    background-color: rgb(150, 148, 148);
+    color: blue;
+}
+.vilagosszurke{
+    background-color: rgb(201, 195, 195);
+    color:black;
+}
+.vilagoskekpiros{
+background-color: lightblue;  
+  color: red;
+}
+
+.vilagoskek{
+    background-color: rgb(141, 131, 235);
+}
+
+
